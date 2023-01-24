@@ -1,13 +1,13 @@
 var data = [
 
     {
-        category: "k1",
+        category: "archetector",
         imgSrc: "img1.jpg"
     }, {
-        category: "k2",
+        category: "developper",
         imgSrc: "img2.jpg"
     }, {
-        category: "k3",
+        category: "developper",
         imgSrc: "img3.jpg"
     }, {
         category: "k4",
